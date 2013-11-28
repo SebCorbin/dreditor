@@ -1,15 +1,12 @@
 // ==UserScript==
-// @name           Dreditor
-// @namespace      http://dreditor.org
-// @description    A user script for drupal.org. Improves the user experience and functionality for Drupal contributors and power users.
+// @name           Dreditor (security.drupal.org)
+// @namespace      http://dreditor.org/security
+// @description    A user script for security.drupal.org. Improves the user experience and functionality for Drupal contributors and power users.
 // @icon           https://drupal.org/misc/druplicon.png
 // @author         sun (Daniel F. Kudwien)
-// @version        1.1.7
+// @version        1.1.7.1
 // @grant          none
-// @include        *://dreditor.org/*
-// @include        *://*.dreditor.org/*
-// @include        *://drupal.org/*
-// @include        *://*.drupal.org/*
+// @include        *://security.drupal.org/*
 // ==/UserScript==
 
 /**
